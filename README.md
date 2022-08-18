@@ -10,6 +10,7 @@ CPP 기본 구조를 위한 vacation study로
 2022.07 ~ 2022.08 동안 이루어졌습니다.
 
 참석자들께 감사드립니다.
+
 qudtngh@snu.ac.kr
 
 dlwhdgus9230@snu.ac.kr
