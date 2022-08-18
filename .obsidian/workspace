@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5336962c8278b11c",
+        "id": "4b77ca4230b9f827",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "C++_포인터.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "C++_포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "C++_포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "C++_포인터.md"
               }
             }
           },
@@ -125,52 +125,29 @@
             "id": "2776945d039d4b9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FIGURES/Pasted image 20220816151312.png.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0db978fae534893f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "메모리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a25c28f7a91a9476",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 852.5,
+    "collapsed": true
   },
-  "active": "5336962c8278b11c",
+  "active": "4b77ca4230b9f827",
   "lastOpenFiles": [
-    "메모리.md",
     "C++_참조.md",
-    "C++_포인터.md",
-    "C++_함수.md",
-    "FIGURES/Pasted image 20220818142513.png",
-    "Pasted image 20220818142440.png",
-    "복사생성자.md",
-    "선행처리기.md",
-    "C++_클래스와 생성자.md",
-    "C++_프로그래밍 기본.md"
+    "FIGURES/Pasted image 20220816151312.png.md",
+    "FIGURES/Pasted image 20220816151350.png",
+    "FIGURES/Pasted image 20220816151312.png",
+    "circle.h.md",
+    "메모리.md",
+    "C++_반복문, 배열, 문자열.md",
+    "namespace.md",
+    "MARKDOWN연습.md",
+    "extern.md"
   ]
 }
