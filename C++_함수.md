@@ -67,6 +67,8 @@ main 함수 호출에서 시작하여 스택 영역에 주소를 만들고, 지�
 다음 순간에 main 함수의 block 안에서 process 함수의 호출이 종료된 후에는 process 함수를 위해 할당된 call stack 이 사라지고 해당 메모리는 모두 소멸된다고 한다.
 ![[Pasted image 20220816151350.png]]
 
+값으로 전달은 호출하는 함수 족의 argument가 호출되는 함수 쪽 parameter로 복사된다. 값으로 전달에서는 인수 argument와 매개변수 parameter가 독립적으로 존재한다. 매개 변수를 변경하는 일이 인수를 변경하는 일에 영향을 주지 않는다.
+
 - ==Pass By Reference (call by reference)==
 
 이론 적으로 pass by reference 와 pass by pointer는 어떤 alias를 구성하여 실제 값에 접근한다는 점에서 동일한 기술이라고 볼 수 있다.(pass by pointer는 alias로 주소값을 넘겨주었을 뿐)
