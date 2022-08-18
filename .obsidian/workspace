@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++_참조, 포인터, 메모리 관리.md",
+            "file": "메모리.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++_참조, 포인터, 메모리 관리.md",
+                "file": "메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++_참조, 포인터, 메모리 관리.md",
+                "file": "메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++_참조, 포인터, 메모리 관리.md"
+                "file": "메모리.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pasted image 20220816151312.png.md",
+                "file": "FIGURES/Pasted image 20220816151312.png.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,15 +162,15 @@
   },
   "active": "5336962c8278b11c",
   "lastOpenFiles": [
+    "C++_참조.md",
+    "메모리.md",
+    "C++_포인터.md",
+    "C++_함수.md",
+    "FIGURES/Pasted image 20220818142513.png",
+    "Pasted image 20220818142440.png",
     "복사생성자.md",
     "선행처리기.md",
-    "C++_참조, 포인터, 메모리 관리.md",
-    "C++_함수.md",
     "C++_클래스와 생성자.md",
-    "C++_프로그래밍 기본.md",
-    "image (4).png.md",
-    "C++_표현식, 문장, 조건문.md",
-    "C++_반복문, 배열, 문자열.md",
-    "메모리.md"
+    "C++_프로그래밍 기본.md"
   ]
 }
