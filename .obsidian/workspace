@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "메모리.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "메모리.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "메모리.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메모리.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,12 +158,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 788.5
+    "width": 206.5
   },
   "active": "5336962c8278b11c",
   "lastOpenFiles": [
-    "C++_참조.md",
     "메모리.md",
+    "C++_참조.md",
     "C++_포인터.md",
     "C++_함수.md",
     "FIGURES/Pasted image 20220818142513.png",
