@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++_포인터.md",
+            "file": "의문점.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#passbyvalue",
+                "query": "passbyvalue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "6d068349fd6fed9f",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++_포인터.md",
+                "file": "의문점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++_포인터.md",
+                "file": "의문점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++_포인터.md"
+                "file": "의문점.md"
               }
             }
           },
@@ -140,14 +140,14 @@
   "active": "4b77ca4230b9f827",
   "lastOpenFiles": [
     "C++_참조.md",
-    "FIGURES/Pasted image 20220816151312.png.md",
-    "FIGURES/Pasted image 20220816151350.png",
-    "FIGURES/Pasted image 20220816151312.png",
-    "circle.h.md",
     "메모리.md",
-    "C++_반복문, 배열, 문자열.md",
-    "namespace.md",
-    "MARKDOWN연습.md",
-    "extern.md"
+    "객체 지향 프로그래밍.md",
+    "C++_표현식, 문장, 조건문.md",
+    "C++_포인터.md",
+    "C++_프로그래밍 기본.md",
+    "C++_함수.md",
+    "선행처리기.md",
+    "스코프.md",
+    "오버로딩.md"
   ]
 }
