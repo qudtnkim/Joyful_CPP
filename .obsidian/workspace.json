@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "8b2c45be5fc74669",
+    "type": "split",
+    "children": [
+      {
+        "id": "a70e0403659f633b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b77ca4230b9f827",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89cf5d56f8b1aee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c08d5221122216fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586f8ce38a0a7844",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e84fd63af79d9422",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "passbyvalue",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4581f53cde4b006a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "6d068349fd6fed9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "750bfdd30012ffe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173b7ab0483df029",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db5b67e06720ce14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "289950e2d39a4bd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8871ce47afb77324",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2776945d039d4b9c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 852.5,
+    "collapsed": true
+  },
+  "active": "4b77ca4230b9f827",
+  "lastOpenFiles": [
+    "의문점.md",
+    "C++_참조.md",
+    "메모리.md",
+    "객체 지향 프로그래밍.md",
+    "C++_표현식, 문장, 조건문.md",
+    "C++_포인터.md",
+    "C++_프로그래밍 기본.md",
+    "C++_함수.md",
+    "선행처리기.md",
+    "스코프.md"
+  ]
+}
